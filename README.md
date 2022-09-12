@@ -2,7 +2,7 @@
 
 Inspired by [ML4SE](https://github.com/saltudelft/ml4se) repo.
 
-This repository contains relevent research materials for those interested in software eningeering for machine learning (SE4ML). 
+This repository contains relevant research materials for those interested in software eningeering for machine learning (SE4ML). 
 
 ## Content
 - [Papers](#papers)
